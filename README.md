@@ -269,12 +269,7 @@ https://youtube.com/shorts/1MxKGMEFFR4?feature=share<br>
 
 <br><br><br>
 <h2><span class="yellow">木についた蕾と雑草のお花たちからいつものプール、コンビニから見えた夕暮れまででした<br>Thank you for reading this far.</span></h2>
-<!--
-<br><br><br><br><br>
-<h2><span class="yellow">
-<a href="https://torokoid.github.io/Mashiko_himawari_3/" target="_blank">クリックでメニューページに戻ります</a>
-</span></h2>
--->
+
     </div>
 <br><br><br>
 
